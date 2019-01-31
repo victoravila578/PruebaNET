@@ -1,0 +1,14 @@
+
+@model IEnumerable<WebPruebaNet.Models.Sucursal>
+
+
+
+    <div style="padding:7px 0;">
+        <div style="float: left;">
+            @Html.ActionLink("Agregar nueva Sucursal", "Insert", new { bancoId = int.Parse(ViewContext.RouteData.Values["id"].ToString())})
+        </div>
+        <div style="float: right;">
+            @Html.ActionLink("Regresar a Bancos", "Index", "Banco", null, null)
+        </div>
+    </div>
+    @Html.Partial("SucursalesList")

@@ -1,0 +1,31 @@
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.deps.json
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.json
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.dev.json
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.dll
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.pdb
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.AssemblyInfo.cs
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.dll
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.pdb
+C:\Users\PAUL\documents\visual studio 2017\Projects\WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.csprojResolveAssemblyReference.cache
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.deps.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.dev.json
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.pdb
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.csprojResolveAssemblyReference.cache
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.AssemblyInfo.cs
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.dll
+C:\Users\PAUL\Documents\Visual Studio 2017\Projects\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.pdb
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.deps.json
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.json
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.runtimeconfig.dev.json
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.dll
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\bin\Debug\netcoreapp1.0\WebPruebaNet.pdb
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.csproj.CoreCompileInputs.cache
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.AssemblyInfoInputs.cache
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.AssemblyInfo.cs
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.dll
+D:\Proyectos\Examen NET\PruebaNet-master\3. WebPruebaNet\WebPruebaNet\obj\Debug\netcoreapp1.0\WebPruebaNet.pdb

@@ -1,0 +1,12 @@
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\bin\Debug\ChangeString.exe.config
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\bin\Debug\ChangeString.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\bin\Debug\ChangeString.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\obj\Debug\ChangeString.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\obj\Debug\ChangeString.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\ChangeString\obj\Debug\ChangeString.pdb
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\bin\Debug\ChangeString.exe.config
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\bin\Debug\ChangeString.exe
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\bin\Debug\ChangeString.pdb
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\obj\Debug\ChangeString.csproj.CoreCompileInputs.cache
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\obj\Debug\ChangeString.exe
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\ChangeString\obj\Debug\ChangeString.pdb

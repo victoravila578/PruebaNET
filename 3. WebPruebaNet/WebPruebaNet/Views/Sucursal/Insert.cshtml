@@ -1,0 +1,40 @@
+@model WebPruebaNet.Models.Sucursal
+
+<form asp-action="Insert">
+    <div class="form-horizontal">
+        <h4>Sucursal</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <div class="col-md-10">
+                <input asp-for="iBancoId" class="form-control" type="hidden"/>
+                <span asp-validation-for="iBancoId" class="text-danger"></span>
+            </div>
+        </div>
+         <div class="form-group">
+            <label asp-for="vNombre" class="col-md-2 control-label">Nombre de Sucursal</label>
+            <div class="col-md-10">
+                <input asp-for="vNombre" class="form-control" />
+                <span asp-validation-for="vNombre" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="vDireccion" class="col-md-2 control-label">Direccion</label>
+            <div class="col-md-10">
+                <input asp-for="vDireccion" class="form-control" />
+                <span asp-validation-for="vDireccion" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Insertar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    @*<a asp-action="Index">Listar Sucursales</a>*@
+    @Html.ActionLink("Listar Sucursales", "Index", new { id = ViewBag.iBanco })
+</div>
+

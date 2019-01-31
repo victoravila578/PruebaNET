@@ -1,0 +1,43 @@
+@model WebPruebaNet.Models.OrdenPago
+
+<form asp-action="Insert">
+    <div class="form-horizontal">
+        <h4>OrdenPago</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            @*<label asp-for="iSucursalId" class="col-md-2 control-label"></label>*@
+            <div class="col-md-10">
+                <input asp-for="iSucursalId" class="form-control" type="hidden" />
+                <span asp-validation-for="iSucursalId" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="fMonto" class="col-md-2 control-label">Monto</label>
+            <div class="col-md-10">
+                <input asp-for="fMonto" class="form-control" />
+                <span asp-validation-for="fMonto" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="iTipoMoneda" class="col-md-2 control-label">Tipo de Moneda</label>
+            <select asp-for="iTipoMoneda" asp-items="@(new SelectList(ViewBag.TipoMonedaList,"Value","Text"))"></select>
+            @*<div class="col-md-10">
+                <input asp-for="iTipoMoneda" class="form-control" />
+                <span asp-validation-for="iTipoMoneda" class="text-danger"></span>
+            </div>*@
+        </div>     
+        
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Insertar" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    @Html.ActionLink("Listado Ordenes de Pago", "Index", new { id = ViewBag.iSurcursal })
+</div>
+

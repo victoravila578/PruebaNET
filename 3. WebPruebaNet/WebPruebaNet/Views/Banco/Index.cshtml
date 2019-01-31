@@ -1,0 +1,48 @@
+@model IEnumerable<WebPruebaNet.Models.Banco>
+
+<p>    
+    @Html.ActionLink("Agregar nuevo Banco", "Insert")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    Codigo de banco
+                </th>
+                <th>
+                    Nombre de banco
+                </th>
+                <th>
+                    Direccion
+                </th>
+                <th>
+                    Fecha de registro
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.iBancoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vNombreBanco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vDireccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dFechaRegistro)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.iBancoId }) |
+                @Html.ActionLink("Borrar", "Eliminar", new { id = item.iBancoId }) |
+                @Html.ActionLink("Ver Sucursales", "Index", "Sucursal", new { id = item.iBancoId }, null) 
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.exe.config
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\bin\Debug\MoneyParts.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.exe
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.pdb
+c:\users\paul\documents\visual studio 2017\Projects\PruebaNet\MoneyParts\obj\Debug\MoneyParts.csprojResolveAssemblyReference.cache
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\bin\Debug\MoneyParts.exe.config
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\bin\Debug\MoneyParts.exe
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\bin\Debug\MoneyParts.pdb
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\obj\Debug\MoneyParts.csproj.CoreCompileInputs.cache
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\obj\Debug\MoneyParts.exe
+D:\Proyectos\Examen NET\PruebaNet-master\2. PruebaNet-Algoritmos\MoneyParts\obj\Debug\MoneyParts.pdb

@@ -1,0 +1,73 @@
+@model IEnumerable<WebPruebaNet.Models.OrdenPago>
+
+<p>
+    @*<a asp-action="Insert">Agregar Nueva Orden de Pago</a>*@
+    @Html.ActionLink("Agregar Nueva Orden de Pago", "Insert", new { sucursalId = int.Parse(ViewContext.RouteData.Values["id"].ToString()) })
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    N° Orden de Pago
+                </th>
+                <th>
+                    Codigo Sucursal
+                </th>
+                <th>
+                    Monto
+                </th>
+                <th>
+                    Cod.Tipo Moneda
+                </th>
+                <th>
+                    Tipo de Moneda
+                </th>
+                <th>
+                    Cod.Estado
+                </th>
+                <th>
+                    Estado
+                </th>
+                <th>
+                    Fecha de Pago
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.iOrdenId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.iSucursalId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fMonto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.iTipoMoneda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vNombreMoneda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.iEstadoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vDescripcionEstado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dFechaPago)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.iOrdenId })  |     
+                @Html.ActionLink("Eliminar", "Eliminar", new { id = item.iOrdenId })                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+@Html.ActionLink("Listar Sucursales", "Index", "Sucursal", new { id = ViewBag.iBanco })
